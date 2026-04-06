@@ -12,6 +12,7 @@ O principal objetivo foi transformar dados em insights acionáveis, permitindo u
 
 
 
+
 ✅ Visão Geral da Operação
 
 Total de pedidos analisados
@@ -21,6 +22,7 @@ Custo total de frete e variação mensal
 Ticket médio de frete com indicador de crescimento
 
 Taxa de entregas concluídas, atrasadas e em trânsito
+
 
 
 
@@ -34,6 +36,7 @@ Apoio à tomada de decisão na escolha de parceiros logísticos
 
 
 
+
 📦 Análise de Atrasos
 
 Percentual de entregas atrasadas (~20%)
@@ -41,6 +44,7 @@ Percentual de entregas atrasadas (~20%)
 Monitoramento de SLA e identificação de desvios
 
 Base para ações corretivas e melhoria de processos
+
 
 
 
@@ -54,11 +58,13 @@ Relação entre peso/volume e valor do frete
 
 
 
+
 📈 Evolução Temporal
 
 Acompanhamento mensal dos custos logísticos
 
 Identificação de sazonalidades e picos de operação
+
 
 
 
@@ -71,6 +77,7 @@ O modal rodoviário representa a maior fatia dos gastos logísticos
 A taxa de atraso indica oportunidades claras de melhoria operacional
 
 Variações mensais sugerem possíveis gargalos ou sazonalidade na demanda
+
 
 
 
